@@ -1,2 +1,2 @@
 # QuitAll
-Saia de todos os seus aplicativos no alternador de aplicativos pressionando um botão. Você pode fazer o download deste ajuste no seu dispositivo de jailbroken
+“Kill” all your apps with the app manager, by pressing a single button
